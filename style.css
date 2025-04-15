@@ -75,15 +75,15 @@ section.module.paralax::after {
 }
 
 section.module.paralax-1 {
-    background-image: url(/geral/img/hamb1.jpg);
+    background-image: url(hamb1.jpg);
 }
 
 section.module.paralax-2 {
-    background-image: url(/geral/img/hamb2.jpg);
+    background-image: url(hamb2.jpg);
 }
 
 section.module.paralax-3 {
-    background-image: url(/geral/img/hamb3.jpg);
+    background-image: url(hamb3.jpg);
 }
 
 section.module.paralax h1 {
